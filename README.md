@@ -1,7 +1,7 @@
 # yolov3-with-Tensorflow2.0
 This repository contains implementation of Yolo V3 using Tensorflow 2.0 from scratch on custom datasets or pretrained weights and train on them.
-It wasen't easy to train and inplement Yolov3 from scratch I took help from my friends and orignal implementation of Yolov3 and from internet to train Yolo v3 on custom datasets
 
+It wasn't easy to train and implement Yolov3 from scratch I took help from my friends and orignal implementation of Yolov3 and from internet to train Yolo v3 on custom datasets
 
 To run this Yolo v3 on GPU you need Nvidia GPU and the needed drivers and cuda files to access the GPU.
 
